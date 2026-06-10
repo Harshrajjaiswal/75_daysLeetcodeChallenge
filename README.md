@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0941-valid-mountain-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
