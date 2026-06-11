@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
