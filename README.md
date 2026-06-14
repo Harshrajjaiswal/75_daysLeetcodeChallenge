@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0941-valid-mountain-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0867-transpose-matrix) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -43,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0344-reverse-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
