@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
@@ -45,6 +46,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
