@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0941-valid-mountain-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
