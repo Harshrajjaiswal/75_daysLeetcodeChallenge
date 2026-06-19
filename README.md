@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
