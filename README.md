@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
