@@ -62,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harshrajjaiswal/75_daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
